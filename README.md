@@ -9,6 +9,11 @@ Este repositório foi feito para mostrar o meu primeiro contato com a ferramente
 ## Resumo do Modelo
 ![modelo](prints/modelproperties.png)
 
+## Métricas do Modelo
+![modelo](prints/metrics.png)
+
+## Análise do Modelo
+![modelo](prints/graficos.png)
 
 ## Requisitos
 - Criar uma conta free no Microsoft Azure
